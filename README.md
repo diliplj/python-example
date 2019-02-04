@@ -1,2 +1,2 @@
-# python-example
-#terminal commmands
+python-example
+and terminal commmands
