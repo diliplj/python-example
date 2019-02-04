@@ -1,1 +1,2 @@
 # python-example
+#terminal commmands
